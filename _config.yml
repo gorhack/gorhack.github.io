@@ -1,0 +1,24 @@
+gems: [jekyll-paginate]
+permalink: pretty
+
+title: Kyle's Things
+paginate: 1
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gorhack.github.io" # the base hostname & protocol for your site
+
+author:
+    name: Kyle Gorak
+    url: kyle.gorak.us
+    email: kyle@gorak.us
+description: > # this means to ignore newlines until "baseurl:"
+  Just a place to put my thoughts down.
+
+twitter_username: g0rak
+github_username:  gorhack
+
+# Build settings
+markdown: kramdown
+
+sass:
+    sass_dir: _sass
+    style: :compressed
