@@ -2,7 +2,7 @@ gems: [jekyll-paginate]
 permalink: pretty
 
 title: Kyle's Things
-paginate: 1
+paginate: 5
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kyle.gorak.us" # the base hostname & protocol for your site
 
@@ -19,6 +19,4 @@ github_username:  gorhack
 # Build settings
 markdown: kramdown
 
-sass:
-    sass_dir: _sass
-    style: :compressed
+version:             1.0.0
