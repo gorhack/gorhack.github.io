@@ -1,6 +1,8 @@
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-gist]
 # Dependencies
-markdown:            redcarpet
+markdown:            kramdown
+kramdown:
+  input: GFM
 
 # Permalinks
 permalink:           pretty
