@@ -10,7 +10,7 @@ comments: True
 tags: [Facebook, api, Swift, Xcode, programming]
 ---
 
-I was starting a new Swift 2 project and saw the Facebook developer portal did not cover Swift so I figured I would take it upon myself to fill in some of the missing pieces of the Facebook login tutorial found on [developer.facebook.com](https://developers.facebook.com/quickstarts/?platform=ios). Repository with project on [Github](https://github.com/gorhack/fblogin_swift2).
+I was starting a new Swift 2 project and saw the Facebook developer portal did not cover Swift. I figured I would take it upon myself to fill in some of the missing pieces of the tutorial found on [developer.facebook.com](https://developers.facebook.com/quickstarts/?platform=ios). Repository with project on [Github](https://github.com/gorhack/fblogin_swift2).
 
 #### Importing the FB SDK Frameworks into the project:
 
