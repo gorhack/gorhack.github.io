@@ -12,7 +12,7 @@ title:               Kyle's Place
 tagline:             'somewhere to put my thoughts'
 description:         >
                      Posts I found helpful, tutorials I make, and somewhere to write when I'm bored
-url:                 http://kyle.gorak.us
+url:                 http://kyle.gorak.us/
 baseurl:             ''
 paginate:            3
 
@@ -25,7 +25,7 @@ pages:
 # About/contact
 author:
   name:              'Kyle Gorak'
-  url:               http://kyle.gorak.us
+  url:               http://kyle.gorak.us/
 
 github:
   repo:              https://github.com/gorhack/gorhack.github.io
