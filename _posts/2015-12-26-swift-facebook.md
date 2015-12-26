@@ -7,22 +7,22 @@ output:
   html_document:
     keep_md: true
 comments: True
-tags: [Facebook, api, Swift, Xcode, programming]
+tags: [Facebook, api, Swift 2, Xcode, programming]
 ---
 
-I was starting a new Swift 2 project and saw the Facebook developer portal did not cover Swift. I figured I would take it upon myself to fill in some of the missing pieces of the tutorial found on [developer.facebook.com](https://developers.facebook.com/quickstarts/?platform=ios). Repository with project on [Github](https://github.com/gorhack/fblogin_swift2).
+I was starting a new Swift 2 project and saw the Facebook developer portal did not cover Swift. I figured I would take it upon myself to fill in some of the missing pieces of the tutorial found on [developer.facebook.com](https://developers.facebook.com/quickstarts/?platform=ios). Full sample project on [Github](https://github.com/gorhack/fblogin_swift2).
 
-#### Importing the FB SDK Frameworks into the project:
+#### Importing the Facebook SDK frameworks into the project:
 
-Download the [Facebook SDK](https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip) add the Framework files to your project. You will need to  select "Copy items if needed" when adding the files to your project.
+Download the [Facebook SDK](https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip) add the necessary framework files to your project. You will need to  select "Copy items if needed" when adding the files to your project (click Options if now showing).
 ![Add files to project]({{ site.url }}/assets/images/add_files.png){: .center-image}
 
 #### Configure your .plist
 
-Add the following to `info.plist` (right click, Open As > Source Code):
+Add the following to `info.plist` (right click, Open As > Source Code) inside the `<dict>...</dict>` tag:
 {% gist gorhack/7d8ff0c39903dd6f750e info.plist %}
 
-#### Add Facebook login to your App Delegate
+#### Add the Facebook framework to your App Delegate
 
 In your `AppDelegate.swift` import `FBSDKShareKit` and add a new application function.
 {% gist gorhack/7d8ff0c39903dd6f750e AppDelegate.swift %}
