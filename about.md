@@ -4,27 +4,9 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+
+Hello! Thank you for visiting. I am Kyle Gorak and I am a 22 year old programmer and technology enthusiast. In 2010 I co-founded PRNDL Development Studio with <a href="https://www.linkedin.com/in/davidbenko">David Benko</a> and developed several iPhone, Android, and Windows Phone applications along with <a href="https://www.linkedin.com/in/cyaglenski">Christian Yaglenski</a> and <a href="https://www.linkedin.com/profile/view?id=156808511">Matthew Hogan</a>. We developed <a href="https://itunes.apple.com/us/app/securis/id392732678?mt=8">Securis</a>, <a href="https://play.google.com/store/apps/details?id=com.prndl.bombdefuse&hl=en">Bomb Defuse</a>, and other applications and websites. Shortly thereafter I enrolled in West Point where I am currently enrolled and studying Computer Science. I will branch Finance, branch-detail Field Artillery, in May 2016. 
+
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+{% include copyright.html %}
