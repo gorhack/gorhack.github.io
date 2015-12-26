@@ -15,7 +15,7 @@ I was starting a new Swift 2 project and saw the Facebook developer portal did n
 #### Importing the FB SDK Frameworks into the project:
 
 Download the [Facebook SDK](https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip) add the Framework files to your project. You will need to  select "Copy items if needed" when adding the files to your project.
-![Add files to project]({{ site.url }}/assets/images/add_files.png)
+![Add files to project]({{ site.url }}/assets/images/add_files.png){: .center-image}
 
 #### Configure your .plist
 
@@ -35,4 +35,4 @@ In one of your `ViewController.swift` files import `FBSDKLoginKit` and add the l
 #### Test your program
 
 Run your application on the emulator or on a device and you should see a Facebook login button that will direct you to login. Logging in will store your application in your Facebook account's Apps section as an authorized application. Inside the Swift application you now have a logout button instead of a login button.
-![Add files to project]({{ site.url }}/assets/images/facebook-test.png)
+![Add files to project]({{ site.url }}/assets/images/facebook-test.png){: .center-image}

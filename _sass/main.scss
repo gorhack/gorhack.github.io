@@ -200,6 +200,18 @@ pre code {
   border-radius: 4px;
 }
 
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
+.img-responsive
+{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 /* Tables */
 table {
   font-family: "PT Sans", Arial, "Helvetica", sans-serif;
@@ -370,4 +382,3 @@ hr {
   padding-right: 2px;
   padding-left: 1px;
 }
-
