@@ -20,12 +20,10 @@ Virtual environments make using Python a bit more manageable, especially when it
     - Create a directory to store your virtual environments, i.e `mkdir ~/Documents/Development/virtualenvs`
     - `vi ~/.bash_profile`
     - Add to file:
-    ```bash
-    export WORKON_HOME=~/Documents/Development/virtualenvs
-    source /usr/local/bin/virtualenvwrapper.sh
-    ```
+    {% gist gorhack/28f5e556a9eaf495f25f .bash_profile %}
     - Save and quit (esc + :wq)
     - `source ~/.bash_profile`
+    - Quit and reopen terminal to reload bash profile
 
 #### Basic commands to use virtual environments
 
