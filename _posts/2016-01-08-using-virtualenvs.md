@@ -34,3 +34,9 @@ Virtual environments make using Python a bit more manageable, especially when it
 - `deactivate`: Stop working on a virtual environment
 - `pip freeze > requirements.txt`: View modules installed in current environment
 - `pip install -r requirements.txt`: Install all modules in requirements.txt
+
+#### Setting up virtual environments
+
+- To make `workon [name]` go directly to the directory of the project directory, edit the /virtualenvs/postactivate and add: {% gist gorhack/d554e7065e061f5b7284 postactivate.bash %}
+- To make `deactivate` exit the project directory, edit the /virtualenvs/postdeactivate and add: {% gist gorhack/d554e7065e061f5b7284 postdeactivate.bash %}
+    - by [Harry Marr](http://hmarr.com/2010/jan/19/making-virtualenv-play-nice-with-git/)
