@@ -10,7 +10,7 @@ comments: True
 tags: [Python 3, Python, development environment]
 ---
 
-Virtual environments make using Python a bit more manageable, especially when it comes to deploying Python programs and creating the requirements (able to use `pip freeze > requirements.txt` and only use packages necessary to that individual project). However, I commonly find myself forgetting some of the more basic commands.
+Virtual environments make using Python a bit more manageable, especially when it comes to deploying Python programs and creating the requirements (able to use `pip freeze > requirements.txt` and only use packages necessary to that individual project). However, I commonly find myself forgetting some of the more basic commands. For Python 2 use `pip`, for Python 3 use `pip3`. 
 
 #### Downloading virtualenv
 
@@ -28,7 +28,7 @@ Virtual environments make using Python a bit more manageable, especially when it
 #### Basic commands to use virtual environments
 
 - `lsvirtualenv`: List your virtual environments
-- `mkvirtualenv [name]`: Create a new virtual environment
+- `mkvirtualenv [name]`: Create a new virtual environment. Use the flag `-ppython3.5` after name to create a Python 3.5 virtual environment. 
 - `rmvirtualenv [name]`: Remove a virtual environment
 - `workon [name]`: Enter a virtual environment
 - `deactivate`: Stop working on a virtual environment
