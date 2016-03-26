@@ -14,13 +14,14 @@ I am learning how to use [PyQt](https://riverbankcomputing.com/software/pyqt/int
 
 #### Downloading pre-requisites
 
-- Create a virtual environment
+- Create a [virtual environment]({% post_url 2016-01-08-using-virtualenvs %})
     - `$ mkvirtualenv my_app -ppython3.5`
     - `$ workon my_app`
     - `$ mkdir my_app`
 - Download [SIP](https://www.riverbankcomputing.com/software/sip/download)
--Download [PyQt](https://www.riverbankcomputing.com/software/pyqt/download5)
+- Download [PyQt](https://www.riverbankcomputing.com/software/pyqt/download5)
 - Move unarchived SIP and PyQt folders to your project folder
+    - `$ tar -xzf [tar file]` or use Archive Utility
 
 #### Installing PyQt
 
@@ -54,7 +55,8 @@ You must install SIP prior to installing PyQt.
 ### Creating your first project
 
 PyQt5 [Documentation](http://pyqt.sourceforge.net/Docs/PyQt5/class_reference.html).
+A simple hello world application to get you started:
 
 {% gist mizki9577/6856389 helloqt.py %}
 
-![Add files to project]({{ site.url }}/assets/images/pyqt-hello.png){: .center-image}
+![Hello World!]({{ site.url }}/assets/images/pyqt-hello.png){: .center-image}
