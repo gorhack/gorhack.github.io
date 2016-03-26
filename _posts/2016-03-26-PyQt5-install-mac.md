@@ -38,7 +38,7 @@ You must install SIP prior to installing PyQt.
         - `>>> sip.SIP_VERSION_STR` should equal '4.17'
     - Delete the SIP directory
 - Installing PyQt
-    - `$ brew install pyqt5`
+    - `$ brew install qt5`
     - `$ brew linkapps qt5`
     - `$ cd PyQt-gpl-5.5.1/`
     - `$ python configure.py --qmake /usr/local/opt/qt5/bin/qmake`
