@@ -52,10 +52,9 @@ You must install SIP prior to installing PyQt.
         - `>>> Qt.PYQT_VERSION_STR` should equal '5.5.1'
     - Delete the PyQt directory
 
-### Creating your first project
+#### Creating your first project
 
-PyQt5 [Documentation](http://pyqt.sourceforge.net/Docs/PyQt5/class_reference.html).
-A simple hello world application to get you started:
+PyQt5 [Documentation](http://pyqt.sourceforge.net/Docs/PyQt5/class_reference.html) and a simple hello world application to get you started:
 
 {% gist mizki9577/6856389 helloqt.py %}
 
