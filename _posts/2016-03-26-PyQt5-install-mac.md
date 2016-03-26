@@ -25,6 +25,7 @@ I am learning how to use [PyQt](https://riverbankcomputing.com/software/pyqt/int
 #### Installing PyQt
 
 You must install SIP prior to installing PyQt.
+
 - Installing SIP
     - `$ cd sip-4.17/`
     - `$ python configure.py`
@@ -56,4 +57,4 @@ PyQt5 [Documentation](http://pyqt.sourceforge.net/Docs/PyQt5/class_reference.htm
 
 {% gist mizki9577/6856389 helloqt.py %}
 
-![Add files to project]({{ site.url }}/assets/images/pyqt_hello.png){: .center-image}
+![Add files to project]({{ site.url }}/assets/images/pyqt-hello.png){: .center-image}
