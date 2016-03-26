@@ -30,8 +30,8 @@ You must install SIP prior to installing PyQt.
 - Installing SIP
     - `$ cd sip-4.17/`
     - `$ python configure.py`
-    - `make`
-    - `make install`
+    - `$ make`
+    - `$ make install`
     - Test the installation
         - `$ python`
         - `>>> import sip`
@@ -42,8 +42,8 @@ You must install SIP prior to installing PyQt.
     - `$ brew linkapps qt5`
     - `$ cd PyQt-gpl-5.5.1/`
     - `$ python configure.py --qmake /usr/local/opt/qt5/bin/qmake`
-    - `make`
-    - `make install`
+    - `$ make`
+    - `$ make install`
     - Test the installation
         - `$ python`
         - `>>> from PyQt5 import QtCore`
