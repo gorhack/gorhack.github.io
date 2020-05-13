@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 .sass-cache
+.git-together
 
 # Numerous always-ignore extensions
 *.diff
@@ -29,6 +30,7 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+stale_outputs_checked
 
 # Komodo
 *.komodoproject
