@@ -10,8 +10,6 @@ and developed several iPhone, Android, and Windows Phone applications along with
 and <a href="https://www.linkedin.com/profile/view?id=156808511">Matthew Hogan</a>. We developed a secure account manager, Securis, for
 iOS, Android, and web, a native cross-platform game on iOS, Android, and Windows Phone, Bomb Defuse, and other miscellaneous
 applications and websites. I graduated from the United States Military Academy with a Bachelor's degree in Computer Science.
-Since graduating, I served in Italy with the 173d Infantry Brigade Combat Team (Airborne) and with 2d Battalion,
-75th Ranger Regiment.
 
 I am currently working on personal projects in my free time. Feel free to contact me with any comments or questions!
 
