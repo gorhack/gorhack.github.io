@@ -1,4 +1,4 @@
-gems: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist]
 # Dependencies
 markdown:            kramdown
 kramdown:
@@ -33,10 +33,6 @@ github:
 sass:
   sass_dir: _sass
   style: :compressed
-
-# Theme
-theme:
- str_continue_reading: "Continue reading..."
 
 # Custom vars
 version:             1.0.0
