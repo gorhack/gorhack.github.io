@@ -10,8 +10,10 @@ comments: True
 tags: [Army, Military, CAC, iOS, iPadOS, CryptoTokenKit]
 ---
 
-iOS/iPad OS natively support smart card readers and authentication using your Common Access Card (CAC)
-through the [CryptoTokenKit](https://developer.apple.com/documentation/cryptotokenkit) framework.
+iOS 16 and iPadOS 16.1
+[natively](https://support.apple.com/guide/deployment/use-a-smart-card-on-iphone-and-ipad-dep8b8c8927a/web)
+support smart card readers and authentication, signing, and encryption using your Common Access Card (CAC) through the
+[CryptoTokenKit](https://developer.apple.com/documentation/cryptotokenkit) framework.
 You no longer need to utilize expensive software or hardware devices previously required from third party
 sites to use CAC-enabled websites on your Apple mobile devices. Now all you need is an On The Go (OTG) adapter
 ([1](https://www.apple.com/shop/product/MD821AM/A/lightning-to-usb-camera-adapter),
