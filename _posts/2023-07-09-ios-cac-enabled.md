@@ -9,13 +9,13 @@ keep_md: true
 comments: True
 tags: [Army, Military, CAC, iOS, iPadOS, CryptoTokenKit]
 ---
-####Update 22 Sep 2023:
+#### Update 22 Sep 2023:
 Confirmed the iPhone 15 Pro with a
 [USB-C Smart Card reader](https://www.amazon.com/Identiv-SCR3310v2-0-Smart-Card-Reader/dp/B07VVSY96H/)
 connected directly to it works without any special connector (you can still use a
 USB Type A to USB Type C adapter, if your smart card reader requires it).
 
-###Native Smart Card Support in iOS/iPadOS
+### Native Smart Card Support in iOS/iPadOS
 Starting with iOS 16 and iPadOS 16.1, Apple
 [natively](https://support.apple.com/guide/deployment/use-a-smart-card-on-iphone-and-ipad-dep8b8c8927a/web)
 supports smart card readers and authentication, signing, and encryption using your Common Access Card (CAC) through the
@@ -28,7 +28,7 @@ sites to use CAC-enabled websites on your Apple mobile devices. Now all you need
 to access websites such as [webmail](https://webmail.apps.mil/mail/), [HRC](https://www.hrc.army.mil/),
 [DTS](https://www.defensetravel.osd.mil/), etc.
 
-###Setup
+### Setup
 First, you will need to download the DoD's PKI Certificate Authority
 [certificates](https://public.cyber.mil/announcement/new-dod-pki-cas-released/) onto your Apple device.
 (*note: some websites may require additional certificates, which can be downloaded from
@@ -56,9 +56,9 @@ However, this should work with any OTG adapter or
 [USB-C smart card reader](https://www.amazon.com/Identiv-SCR3310v2-0-Smart-Card-Reader/dp/B07VVSY96H/)
 directly to a USB-C iPad.
 
-###Troubleshooting:
+### Troubleshooting:
 
-####This Connection is Not Private
+#### This Connection is Not Private
 Click `Show Details->view the certificate` and download
 the respective public certificate from [disa](https://crl.gds.disa.mil). 
 
@@ -72,7 +72,7 @@ You may also have to `reduce protections` if you have any additional privacy & s
 Safari such as `Advanced Tracking and Fingerprinting Protection` or `Show IP Address` if you have iCloud
 Private Relay turned on. 
 
-####Cannot Use Accessory
+#### Cannot Use Accessory
 I did run into some issues with Apple's Lightning to USB 3 Camera Adapter where the power provided by the adapter was
 insufficient, but this was solved by plugging in a charger to the lightning port on the adapter.
 
