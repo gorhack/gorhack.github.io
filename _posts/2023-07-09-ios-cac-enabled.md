@@ -26,7 +26,7 @@ sites to use CAC-enabled websites on your Apple mobile devices. Now all you need
 [2](https://www.apple.com/shop/product/MK0W2AM/A/lightning-to-usb-3-camera-adapter),
 [3](https://www.amazon.com/apple-lightning-usb-camera-adapter/s?k=apple+lightning+to+usb+otg+adapter))
 to access websites such as [webmail](https://webmail.apps.mil/mail/), [HRC](https://www.hrc.army.mil/),
-[DTS](https://www.defensetravel.osd.mil/), etc.
+[DTS](https://www.defensetravel.osd.mil/), [IPPS-A](https://my.ippsa.army.mil/psp/hcpdc/?cmd=login), etc.
 
 ## Setup
 First, you will need to download the DoD's PKI Certificate Authority
@@ -59,18 +59,18 @@ directly to a USB-C iPad.
 ## Troubleshooting:
 
 ### This Connection is Not Private
-Click `Show Details->view the certificate` and download
-the respective public certificate from [DISA](https://crl.gds.disa.mil). 
+Click `Show Details->view the certificate` and download the respective certificate from
+[DISA](https://crl.gds.disa.mil). 
 
 ![Connection is Not Private]({{ site.url }}/assets/images/connection_not_private.png){: .center-image}
 
-For example, IPPS-A currently uses the `DOD SW CA-60` certificate, which is not included in the
-`DoD Root CA 3` certificate installed in the Setup section above. Selecting the `DOD SW CA-60` in DISA's
-[DoD PKI Management](https://crl.gds.disa.mil) and downloading it will allow you to install it.
+For example, IPPS-A uses the `DOD SW CA-60` certificate. You can either download the `DOD SW CA-60` in DISA's
+[DoD PKI Management](https://crl.gds.disa.mil) and install it or simply click `visit this website`.
 
 You may also have to `reduce protections` if you have any additional privacy & security settings enabled for
 Safari such as `Advanced Tracking and Fingerprinting Protection` or `Show IP Address` if you have iCloud
-Private Relay turned on. 
+Private Relay turned on. If you are still having issues after installing the certificate, you can try restarting
+your device, clearing the history and website data, or use private browsing.
 
 ### Cannot Use Accessory
 I did run into some issues with Apple's Lightning to USB 3 Camera Adapter where the power provided by the adapter was
