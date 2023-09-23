@@ -9,13 +9,13 @@ keep_md: true
 comments: True
 tags: [Army, Military, CAC, iOS, iPadOS, CryptoTokenKit]
 ---
-#### Update 22 Sep 2023:
+### Update 22 Sep 2023:
 Confirmed the iPhone 15 Pro with a
 [USB-C Smart Card reader](https://www.amazon.com/Identiv-SCR3310v2-0-Smart-Card-Reader/dp/B07VVSY96H/)
-connected directly to it works without any special connector (you can still use a
+connected directly works without any special connector (you can still use a
 USB Type A to USB Type C adapter, if your smart card reader requires it).
 
-### Native Smart Card Support in iOS/iPadOS
+## Native Smart Card Support in iOS/iPadOS
 Starting with iOS 16 and iPadOS 16.1, Apple
 [natively](https://support.apple.com/guide/deployment/use-a-smart-card-on-iphone-and-ipad-dep8b8c8927a/web)
 supports smart card readers and authentication, signing, and encryption using your Common Access Card (CAC) through the
@@ -28,7 +28,7 @@ sites to use CAC-enabled websites on your Apple mobile devices. Now all you need
 to access websites such as [webmail](https://webmail.apps.mil/mail/), [HRC](https://www.hrc.army.mil/),
 [DTS](https://www.defensetravel.osd.mil/), etc.
 
-### Setup
+## Setup
 First, you will need to download the DoD's PKI Certificate Authority
 [certificates](https://public.cyber.mil/announcement/new-dod-pki-cas-released/) onto your Apple device.
 (*note: some websites may require additional certificates, which can be downloaded from
@@ -42,7 +42,7 @@ will be prompted to select your certificate and enter your pin.
 
 ![Cac Enabled Sites on an iPhone!]({{ site.url }}/assets/images/cac-enabled-sites.png){: .center-image}
 
-###Certificate Management
+## Certificate Management
 All certificates are accessible in `Settings->General->VPN & Device Management->Configuration Profiles`
 while the root certificates are managed in `Settings->General->About->Certificate Trust Settings`.
 
@@ -56,23 +56,23 @@ However, this should work with any OTG adapter or
 [USB-C smart card reader](https://www.amazon.com/Identiv-SCR3310v2-0-Smart-Card-Reader/dp/B07VVSY96H/)
 directly to a USB-C iPad.
 
-### Troubleshooting:
+## Troubleshooting:
 
-#### This Connection is Not Private
+### This Connection is Not Private
 Click `Show Details->view the certificate` and download
-the respective public certificate from [disa](https://crl.gds.disa.mil). 
+the respective public certificate from [DISA](https://crl.gds.disa.mil). 
 
 ![Connection is Not Private]({{ site.url }}/assets/images/connection_not_private.png){: .center-image}
 
 For example, IPPS-A currently uses the `DOD SW CA-60` certificate, which is not included in the
-`DoD Root CA 3` certificate installed in the Setup above. Selecting the `DOD SW CA-60` in DISA's
+`DoD Root CA 3` certificate installed in the Setup section above. Selecting the `DOD SW CA-60` in DISA's
 [DoD PKI Management](https://crl.gds.disa.mil) and downloading it will allow you to install it.
 
 You may also have to `reduce protections` if you have any additional privacy & security settings enabled for
 Safari such as `Advanced Tracking and Fingerprinting Protection` or `Show IP Address` if you have iCloud
 Private Relay turned on. 
 
-#### Cannot Use Accessory
+### Cannot Use Accessory
 I did run into some issues with Apple's Lightning to USB 3 Camera Adapter where the power provided by the adapter was
 insufficient, but this was solved by plugging in a charger to the lightning port on the adapter.
 
