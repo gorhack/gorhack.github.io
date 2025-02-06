@@ -1,0 +1,171 @@
+# Credit Cards for Military Service Members
+
+The audience for this is active duty military service members. Although many recommendations have nothing to do with
+military service, I would not recommend several of the below credit cards if the annual fee was not waived. I will
+attempt to keep this strictly about credit cards, however, some credit cards do require establishing a banking
+relationship as well.
+
+**If you have poor financial responsibility and would ever charge an amount to a credit card without the ability
+to pay off the credit card in full by its due date, do not apply for and use credit cards. Credit cards can be a
+phenomenal tool for building credit, receiving additional benefits, and receiving cash back on purchases you are already
+planning on making and can pay for in full but can also land you in serious debt that could take years to overcome.**
+
+### I'll start with answering a few credit card rumors:
+
+1) You should **never** carry a balance on your credit cards, it is not a way to improve your credit score.
+2) Having many credit cards does not mean you will have poor credit (the *number of open accounts* is a small factor
+   relative to others when your credit score is calculated. *Credit inquiries* are a predominately temporary impact to
+   your credit score. If you are anticipating taking out a loan, especially a mortgage, you should avoid necessary
+   credit inquiries for several months prior to applying). I have close to 30 active credit cards and over an 800
+   credit score across each credit bureaus.
+3) Paying with a credit card is *always* safer than paying with cash or a debit card due to the liability and
+   fraud protection available.
+4) Even with some places charing more for credit compared to cash or debit, you can still "out-earn" the fee with some
+   credit cards. For example, if a restaurant charges 2.5% for credit card users, but your credit card earns 4%
+   cashback, you will still net 1.5% cashback by using your credit card.
+5) You can have multiple of the same credit card to maximize its perks. Sometimes this requires upgrading from a lower
+   tier card, sometimes you can apply through a co-branded credit card.
+
+#### Before applying to a new credit card:
+
+1) Ask your coworkers for a referral; typically you both will benefit from a referral. There are **no** referral links
+   in this post. Do not post referral links in comments, they will not be approved.
+2) Be cognisant of credit inquiries, credit card company
+   [application restrictions](https://thepointsguy.com/credit-cards/credit-card-application-restrictions/), and timeline
+   to achieve minimum spend bonus offers. You will not be able to apply for a high number of credit cards in a short
+   time.
+3) Understand the credit card's benefits and have a plan for how you will use the credit card.
+4) Know which companies [waive annual fees](https://militarymoneymanual.com/credit-cards-waive-annual-fees-military/)
+   for military.
+    1) American Express
+    2) Chase
+    3) Citi
+    4) U.S. Bank
+
+Personally, I value cash back over points because I can immediately treat them as monthly "rebates" on purchases. Even
+though you can redeem points for more than 1¢/ea, I generally value all points at 1¢ each because they typically require
+"saving" points over months or years to achieve higher redemption values (except PenFed which are valued at .75-85¢ each
+because redemption options are so poor) through transfer or travel portals. **I pay \$0 in annual fees for all of my
+credit cards.** Based on your monthly budget, identify your main purchase categories and see which credit cards will
+maximize your cashback or points. Generally, my recommendations are in order based on the top typical category most
+service members will have. I also do not highlight every card benefit available for each credit card, just the top
+benefits.
+
+## Maximizing Cashback and Points
+
+### Getting Started with an "Everything" Card
+
+At the very least, you should be getting a minimum of 2% cashback on all purchases with your credit card. There are many
+ways to earn higher than 2%, but many require additional steps. For example, with the
+[Bank of America Unlimited Cash Rewards](https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/),
+you can earn 1.5% at baseline, however, if you have \$100,000 in a Merrill Lynch brokerage account you can earn a 75%
+bonus through [Preferred Rewards](https://promotions.bankofamerica.com/preferredrewards/en) resulting in 2.62% cashback
+on all purchases. The new [Robinhood Gold Card](https://robinhood.com/creditcard/) earns 3% cashback on all purchases,
+but requires a RobinHood Gold subscription (\$5/mo).
+
+1) [Citi Double Cash](https://wwww.citi.com/credit-cards/citi-double-cash-credit-card): 2% cashback
+2) [Wells Fargo Active Cash Card](https://creditcards.wellsfargo.com/active-cash-credit-card): 2% cashback
+
+### Restaurants
+
+1) [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve): 3x points (50% bonus
+   on all Chase points when redeemed through the Chase Travel Portal so effectively 4.5x points), \$300 travel credit.
+2) [American Express Gold Card](https://www.americanexpress.com/en-us/credit-cards/credit-intel/gold-card-rewards-points/):
+   4x points on up to \$50,000/yr, 4x points on up to $25,000/yr on groceries, \$120 dining credit, \$10/mo Uber credit,
+   \$100 Resy Credit, \$7/mo Dunkin' Donuts Credit
+
+### Online Purchases
+
+1) [Bank of America Customized Cash Rewards](https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/)
+   3% on up to \$2500/quarter. Bank of
+   America [Preferred Rewards](https://promotions.bankofamerica.com/preferredrewards/en) increases the cashback to 5.25%
+   if you have \$100,000 in an IRA or brokerage in a Merrill Lynch account.
+2) [Chase Prime Visa](https://www.amazon.com/Prime-Visa/dp/BT00LN946S): 5% at Amazon
+3) [Amex Blue Cash Everyday](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/): 3% on up to
+   \$6000/yr
+
+### Travel
+
+1) [American Express Platinum](https://www.americanexpress.com/us/credit-cards/card/platinum/): 5x points with airlines,
+   Priority Pass Lounge access, Centurion Lounge access, \$200 airline credit
+2) [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve): 5x points on airline
+   purchases through Chase Travel portal, 50% point bonus (for all Chase cards) when redeemed for travel in the Chase
+   Travel portal, Priority Pass, Chase Sapphire Reserve lounge access (note: if you have multiple credit cards with a
+   Global Entry credit, you can use the other credits on other people)
+3) Airline Specific with Lounge Access (and other benefits):
+    1) Delta:
+       [Amex Delta SkyMiles Reserve](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/)
+       and [Amex Delta SkyMiles Platinum](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card).
+       With both credit cards, you will get automatic Silver Status with the MQD Headstart on both Credit cards and two
+       Companion passes each year.
+    2) American:
+       [Citi AAdvantage Executive World Elite](https://creditcards.aa.com/credit-cards/citi-executive-card-american-airlines-direct/)
+    3) United:
+       [Chase United Club Infinite](https://creditcards.chase.com/travel-credit-cards/united/club-infinite)
+4) Hotel Specific (free night(s)):
+    1) Marriott:
+       [Chase Marriott Bonvoy Bountiful](https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful)
+    2) Hilton:
+       [Amex Hilton Aspire Card](https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/)
+    3) IHG:
+       [Chase IHG Premier](https://creditcards.chase.com/a1/ihg/Premier12325NAEP)
+
+### Grocery Shopping
+
+1) [American Express Blue Cash Preferred Card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/):
+   6% cashback on up to \$6,000/yr, 6% cashback on select streaming subscriptions, 3% cashback on gas.
+2) [American Express Gold Card](https://www.americanexpress.com/en-us/credit-cards/credit-intel/gold-card-rewards-points/):
+   4x points on up to \$25,000/yr, 4x points on up to $50,000/yr at restaurants, \$120 dining credit, \$10/mo Uber
+   credit, \$100 Resy Credit, \$7/mo Dunkin' Donuts Credit
+
+### Gas
+
+1) [PenFed Platinum Rewards](https://www.penfed.org/credit-cards/platinum-rewards-visa): 5x points on gas and EV
+   charging
+2) [American Express Blue Cash Preferred Card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/):
+   3% cashback, 6% cashback on up to \$6,000 in grocery store purchases, and 6% cashback on select streaming
+   subscriptions.
+
+### Rotating Categories
+
+1) [Discover It](https://www.discover.com/credit-cards/cash-back/it-card.html): 5% cashback on quarterly category. These
+   categories include grocery, Amazon/Target/Walmart, PayPal, restaurants, etc.
+2) [Chase Freedom Flex](https://creditcards.chase.com/cash-back-credit-cards/freedom/flex): 5x points (7.5x with
+   Chase Sapphire Reserve) on quarterly category
+3) [Bank of America Customized Cash Rewards](https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/)
+   3% on up to \$2500/quarter of your selected category (Gas/EV charging stations, dining, travel, drug stores and
+   pharmacies, or home improvement). With preferred rewards, 5.25% cashback.
+
+## Advanced Credit Card Topics
+
+1) [Churning](https://thepointsguy.com/credit-cards/credit-card-churning/)
+   and [manufactured spend](https://www.reddit.com/r/churning/wiki/manufactured_spending/)
+2) [Upgrading credit cards](https://thepointsguy.com/credit-cards/your-ultimate-guide-to-credit-card-upgrades/) to
+   maximize sign-up bonuses on lower tier cards, but receiving multiple benefits of higher tier cards.
+3) Maximizing [sign up bonuses](https://thepointsguy.com/credit-cards/limited-time-card-offers/)
+4) [Point breakdowns](https://thepointsguy.com/credit-cards/best/)
+
+## What's in my wallet
+
+| Credit Card                                                                                                                            | Benefits Utilized                                                                                                                                                                                                                                                              | Carried or Drawer*           |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| [Bank of America Unlimited Cash Rewards](https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/)         | 2.62% cashback on all purchases                                                                                                                                                                                                                                                | carried                      |
+| [Bank of America Customized Cash Rewards](https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/)                  | 5.25% cashback on online shopping                                                                                                                                                                                                                                              | drawer                       |
+| Citi Prestige                                                                                                                          | 5x points at restaurants, 3x at hotels, 3x transit, \$250 annual travel/restaurants, 4th night hotel free (2x/yr), \$100 global entry credit, cell phone protection (\$1,000/claim, \$1,500/yr, \$50 deductible), Priority Pass Select membership, 24 months extended warranty | carried                      |
+| [PenFed Platinum Rewards](https://www.penfed.org/credit-cards/platinum-rewards-visa)                                                   | 5x points on gas                                                                                                                                                                                                                                                               | carried                      | 
+| [American Express Platinum](https://www.americanexpress.com/us/credit-cards/card/platinum/)                                            | 5x points on air travel, \$200 airline credit, \$20/mo digital entertainment credit, \$100 global entry credit, \$200 hotel credit, \$100 Saks credit, \$15/mo Uber credit, Walmart+ credit                                                                                    | drawer                       |
+| [American Express Blue Cash Preferred Card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/)                 | 6% cashback on groceries (on up to $6,000/yr), 6% cashback on select streaming subscriptions (including Apple subscriptions and gift card purchase through your Apple Account)                                                                                                 | carried                      |
+| [American Express Delta Reserve](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/)   | \$2,500 MQD head start, \$10/mo rideshare credit, \$20/mo at Resy restaurants, \$200 Delta Stays Credit, Hertz President's Circle Status, Companion Certificate, TakeOff 15,                                                                                                   | drawer                       | 
+| [American Express Delta Platinum](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/) | \$2,500 MQD head start (automatic Silver status combined with the Delta Reserve), \$10/mo rideshare credit, \$10/mo at Resy restaurants, \$150 Delta Stays Credit,                                                                                                             | drawer                       |
+| [Discover It](https://www.discover.com/credit-cards/cash-back/it-card.html)                                                            | 5% cashback on rotational category                                                                                                                                                                                                                                             | carried depending on quarter |
+| [Chase Freedom Flex](https://creditcards.chase.com/cash-back-credit-cards/freedom/flex)                                                | 5x points on rotational category                                                                                                                                                                                                                                               | carried depending on quarter |
+
+*Drawer card means I only charge purchases to them for the benefit (and they typically stay in my drawer).
+
+I pay \$0 in annual fees, these are just the cards I regularly use and the primary benefits utilized with each card.
+
+## Next cards I'll be applying for
+
+1) [Robinhood Gold Card](https://robinhood.com/creditcard/), 3% cashback on everything
+
+If you have any recommendations or updates to anything in the post, feel free to leave a comment!
