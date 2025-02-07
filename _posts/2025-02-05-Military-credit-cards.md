@@ -130,7 +130,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
    3% on up to \$2500/quarter of your selected category (Gas/EV charging stations, dining, travel, drug stores and
    pharmacies, or home improvement). With preferred rewards, 5.25% cashback.
 
-## Advanced Credit Card Topics
+# Advanced Credit Card Topics
 
 1) [Churning](https://thepointsguy.com/credit-cards/credit-card-churning/)
    and [manufactured spend](https://www.reddit.com/r/churning/wiki/manufactured_spending/)
@@ -155,7 +155,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
 3) Paying with a credit card is *always* safer than paying with cash or a debit card due to the liability and
    fraud protection available.
 
-4) Even with some places charing more for credit compared to cash or debit, you can still "out-earn" the fee with some
+4) Even with some places charging more for credit compared to cash or debit, you can still "out-earn" the fee with some
    credit cards. For example, if a restaurant charges 2.5% for credit card users, but your credit card earns 4%
    cashback, you will still net 1.5% cashback by using your credit card.
 
