@@ -10,15 +10,6 @@ to pay off the credit card in full by its due date, do not apply for and use cre
 phenomenal tool for building credit, receiving additional benefits, and receiving cash back on purchases you are already
 planning on making and can pay for in full but can also land you in serious debt that could take years to overcome.
 
-Personally, I value cash back over points because I can immediately treat them as monthly "rebates" on purchases. Even
-though you can redeem points for more than 1¢/ea, I generally value all points at 1¢ each because they typically require
-"saving" points over months or years to achieve higher redemption values (except PenFed which are valued at .75-85¢ each
-because redemption options are so poor) through transfer or travel portals. **I pay \$0 in annual fees for all of my
-credit cards.** Based on your monthly budget, identify your main purchase categories and see which credit cards will
-maximize your cashback or points. Generally, my recommendations are in order based on the top typical category most
-service members will have. I also do not highlight every card benefit available for each credit card, just the top
-benefits.
-
 
 ## Before applying to a new credit card:
 
@@ -151,7 +142,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
 
 4) [Point breakdowns](https://thepointsguy.com/credit-cards/best/)
 
-## Credit Card Rumors:
+# Credit Card Rumors:
 
 1) You should **never** carry a balance on your credit cards, it is not a way to improve your credit score.
 
@@ -172,7 +163,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
    tier card, sometimes you can apply through a co-branded credit card.
 
 
-## What's in my wallet
+# What's in my wallet
 
 | Credit Card                                                                                                                            | Benefits Utilized                                                                                                                                                                                                                                                              | Carried or Drawer*           |
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
@@ -189,10 +180,13 @@ but requires a RobinHood Gold subscription (\$5/mo).
 
 *Drawer card means I only charge purchases to them for the benefit (and they typically stay in my drawer).
 
-I pay \$0 in annual fees, these are just the cards I regularly use and the primary benefits utilized with each card.
+Personally, I value cash back over points because I can immediately treat them as monthly "rebates" on purchases. Even
+though you can redeem points for more than 1¢/ea, I generally value all points at 1¢ each because they typically require
+"saving" points over months or years to achieve higher redemption values (except PenFed which are valued at .75-85¢ each
+because redemption options are so poor) through transfer or travel portals. **I pay \$0 in annual fees for all of my
+credit cards.**
+
 
 ## Next cards I'll be applying for:
 
 1) [Robinhood Gold Card](https://robinhood.com/creditcard/), 3% cashback on everything
-
-If you have any recommendations or updates to anything in the post, feel free to leave a comment!
