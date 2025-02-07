@@ -1,4 +1,4 @@
-# Credit Cards for Military Service Members
+# Credit Card Recommendations for Military Service Members
 
 The audience for this is active duty military service members. Although many recommendations have nothing to do with
 military service, I would not recommend several of the below credit cards if the annual fee was not waived. I will
@@ -6,29 +6,19 @@ attempt to keep this strictly about credit cards, however, some credit cards do 
 relationship as well.
 
 **If you have poor financial responsibility and would ever charge an amount to a credit card without the ability
-to pay off the credit card in full by its due date, do not apply for and use credit cards. Credit cards can be a
+to pay off the credit card in full by its due date, do not apply for and use credit cards.** Credit cards can be a
 phenomenal tool for building credit, receiving additional benefits, and receiving cash back on purchases you are already
-planning on making and can pay for in full but can also land you in serious debt that could take years to overcome.**
+planning on making and can pay for in full but can also land you in serious debt that could take years to overcome.
 
-## I'll start with answering a few credit card rumors:
+Personally, I value cash back over points because I can immediately treat them as monthly "rebates" on purchases. Even
+though you can redeem points for more than 1¢/ea, I generally value all points at 1¢ each because they typically require
+"saving" points over months or years to achieve higher redemption values (except PenFed which are valued at .75-85¢ each
+because redemption options are so poor) through transfer or travel portals. **I pay \$0 in annual fees for all of my
+credit cards.** Based on your monthly budget, identify your main purchase categories and see which credit cards will
+maximize your cashback or points. Generally, my recommendations are in order based on the top typical category most
+service members will have. I also do not highlight every card benefit available for each credit card, just the top
+benefits.
 
-1) You should **never** carry a balance on your credit cards, it is not a way to improve your credit score.
-
-2) Having many credit cards does not mean you will have poor credit (the *number of open accounts* is a small factor
-   relative to others when your credit score is calculated. *Credit inquiries* are a predominately temporary impact to
-   your credit score. If you are anticipating taking out a loan, especially a mortgage, you should avoid necessary
-   credit inquiries for several months prior to applying). I have close to 30 active credit cards and over an 800
-   credit score across each credit bureaus.
-
-3) Paying with a credit card is *always* safer than paying with cash or a debit card due to the liability and
-   fraud protection available.
-
-4) Even with some places charing more for credit compared to cash or debit, you can still "out-earn" the fee with some
-   credit cards. For example, if a restaurant charges 2.5% for credit card users, but your credit card earns 4%
-   cashback, you will still net 1.5% cashback by using your credit card.
-
-5) You can have multiple of the same credit card to maximize its perks. Sometimes this requires upgrading from a lower
-   tier card, sometimes you can apply through a co-branded credit card.
 
 ## Before applying to a new credit card:
 
@@ -50,18 +40,10 @@ planning on making and can pay for in full but can also land you in serious debt
    - Citi
    - U.S. Bank
 
-Personally, I value cash back over points because I can immediately treat them as monthly "rebates" on purchases. Even
-though you can redeem points for more than 1¢/ea, I generally value all points at 1¢ each because they typically require
-"saving" points over months or years to achieve higher redemption values (except PenFed which are valued at .75-85¢ each
-because redemption options are so poor) through transfer or travel portals. **I pay \$0 in annual fees for all of my
-credit cards.** Based on your monthly budget, identify your main purchase categories and see which credit cards will
-maximize your cashback or points. Generally, my recommendations are in order based on the top typical category most
-service members will have. I also do not highlight every card benefit available for each credit card, just the top
-benefits.
 
-## Maximizing Cashback and Points
+# Maximizing Cashback and Points
 
-### Getting Started with an "Everything" Card
+## Getting Started with an "Everything" Card
 
 At the very least, you should be getting a minimum of 2% cashback on all purchases with your credit card. There are many
 ways to earn higher than 2%, but many require additional steps. For example, with the
@@ -75,7 +57,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
 
 2) [Wells Fargo Active Cash Card](https://creditcards.wellsfargo.com/active-cash-credit-card): 2% cashback
 
-### Restaurants
+## Restaurants
 
 1) [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve): 3x points (50% bonus
    on all Chase points when redeemed through the Chase Travel Portal so effectively 4.5x points), \$300 travel credit.
@@ -84,7 +66,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
    4x points on up to \$50,000/yr, 4x points on up to $25,000/yr on groceries, \$120 dining credit, \$10/mo Uber credit,
    \$100 Resy Credit, \$7/mo Dunkin' Donuts Credit
 
-### Online Purchases
+## Online Purchases
 
 1) [Bank of America Customized Cash Rewards](https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/)
    3% on up to \$2500/quarter. Bank of
@@ -96,7 +78,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
 3) [Amex Blue Cash Everyday](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/): 3% on up to
    \$6000/yr
 
-### Travel
+## Travel
 
 1) [American Express Platinum](https://www.americanexpress.com/us/credit-cards/card/platinum/): 5x points with airlines,
    Priority Pass Lounge access, Centurion Lounge access, \$200 airline credit
@@ -127,7 +109,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
    - IHG:
    [Chase IHG Premier](https://creditcards.chase.com/a1/ihg/Premier12325NAEP)
 
-### Grocery Shopping
+## Grocery Shopping
 
 1) [American Express Blue Cash Preferred Card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/):
    6% cashback on up to \$6,000/yr, 6% cashback on select streaming subscriptions, 3% cashback on gas.
@@ -136,7 +118,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
    4x points on up to \$25,000/yr, 4x points on up to $50,000/yr at restaurants, \$120 dining credit, \$10/mo Uber
    credit, \$100 Resy Credit, \$7/mo Dunkin' Donuts Credit
 
-### Gas
+## Gas
 
 1) [PenFed Platinum Rewards](https://www.penfed.org/credit-cards/platinum-rewards-visa): 5x points on gas and EV
    charging
@@ -145,7 +127,7 @@ but requires a RobinHood Gold subscription (\$5/mo).
    3% cashback, 6% cashback on up to \$6,000 in grocery store purchases, and 6% cashback on select streaming
    subscriptions.
 
-### Rotating Categories
+## Rotating Categories
 
 1) [Discover It](https://www.discover.com/credit-cards/cash-back/it-card.html): 5% cashback on quarterly category. These
    categories include grocery, Amazon/Target/Walmart, PayPal, restaurants, etc.
@@ -168,6 +150,27 @@ but requires a RobinHood Gold subscription (\$5/mo).
 3) Maximizing [sign up bonuses](https://thepointsguy.com/credit-cards/limited-time-card-offers/)
 
 4) [Point breakdowns](https://thepointsguy.com/credit-cards/best/)
+
+## Credit Card Rumors:
+
+1) You should **never** carry a balance on your credit cards, it is not a way to improve your credit score.
+
+2) Having many credit cards does not mean you will have poor credit (the *number of open accounts* is a small factor
+   relative to others when your credit score is calculated. *Credit inquiries* are a predominately temporary impact to
+   your credit score. If you are anticipating taking out a loan, especially a mortgage, you should avoid necessary
+   credit inquiries for several months prior to applying). I have close to 30 active credit cards and over an 800
+   credit score across each credit bureaus.
+
+3) Paying with a credit card is *always* safer than paying with cash or a debit card due to the liability and
+   fraud protection available.
+
+4) Even with some places charing more for credit compared to cash or debit, you can still "out-earn" the fee with some
+   credit cards. For example, if a restaurant charges 2.5% for credit card users, but your credit card earns 4%
+   cashback, you will still net 1.5% cashback by using your credit card.
+
+5) You can have multiple of the same credit card to maximize its perks. Sometimes this requires upgrading from a lower
+   tier card, sometimes you can apply through a co-branded credit card.
+
 
 ## What's in my wallet
 
