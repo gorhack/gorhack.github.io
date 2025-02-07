@@ -94,11 +94,14 @@ but requires a RobinHood Gold subscription (\$5/mo).
 4) Hotel Specific (free night(s)):
 
    - Marriott:
-   [Chase Marriott Bonvoy Bountiful](https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful)
+   [Chase Marriott Bonvoy Bountiful](https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful),
+   [Amex Marriott Bonvoy](https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/)
    - Hilton:
    [Amex Hilton Aspire Card](https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/)
    - IHG:
    [Chase IHG Premier](https://creditcards.chase.com/a1/ihg/Premier12325NAEP)
+   - Hyatt:
+   [Chase World of Hyatt Credit Card](https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card)
 
 ## Grocery Shopping
 
