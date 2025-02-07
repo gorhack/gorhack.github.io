@@ -45,13 +45,10 @@ planning on making and can pay for in full but can also land you in serious debt
 4) Know which companies [waive annual fees](https://militarymoneymanual.com/credit-cards-waive-annual-fees-military/)
    for military.
 
-    1) American Express
-
-    2) Chase
-
-    3) Citi
-
-    4) U.S. Bank
+   - American Express
+   - Chase
+   - Citi
+   - U.S. Bank
 
 Personally, I value cash back over points because I can immediately treat them as monthly "rebates" on purchases. Even
 though you can redeem points for more than 1¢/ea, I generally value all points at 1¢ each because they typically require
@@ -111,28 +108,24 @@ but requires a RobinHood Gold subscription (\$5/mo).
 
 3) Airline Specific with Lounge Access (and other benefits):
 
-    1) Delta:
-       [Amex Delta SkyMiles Reserve](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/)
-       and [Amex Delta SkyMiles Platinum](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card).
-       With both credit cards, you will get automatic Silver Status with the MQD Headstart on both Credit cards and two
-       Companion passes each year.
-
-    2) American:
-       [Citi AAdvantage Executive World Elite](https://creditcards.aa.com/credit-cards/citi-executive-card-american-airlines-direct/)
-
-    3) United:
-       [Chase United Club Infinite](https://creditcards.chase.com/travel-credit-cards/united/club-infinite)
+   - Delta:
+   [Amex Delta SkyMiles Reserve](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/)
+   and [Amex Delta SkyMiles Platinum](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card).
+   With both credit cards, you will get automatic Silver Status with the MQD Headstart on both Credit cards and two
+   Companion passes each year.
+   - American:
+   [Citi AAdvantage Executive World Elite](https://creditcards.aa.com/credit-cards/citi-executive-card-american-airlines-direct/)
+   - United:
+   [Chase United Club Infinite](https://creditcards.chase.com/travel-credit-cards/united/club-infinite)
 
 4) Hotel Specific (free night(s)):
 
-    1) Marriott:
-       [Chase Marriott Bonvoy Bountiful](https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful)
-
-    2) Hilton:
-       [Amex Hilton Aspire Card](https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/)
-
-    3) IHG:
-       [Chase IHG Premier](https://creditcards.chase.com/a1/ihg/Premier12325NAEP)
+   - Marriott:
+   [Chase Marriott Bonvoy Bountiful](https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful)
+   - Hilton:
+   [Amex Hilton Aspire Card](https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/)
+   - IHG:
+   [Chase IHG Premier](https://creditcards.chase.com/a1/ihg/Premier12325NAEP)
 
 ### Grocery Shopping
 
