@@ -41,8 +41,8 @@ ways to earn higher than 2%, but many require additional steps. For example, wit
 [Bank of America Unlimited Cash Rewards](https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/),
 you can earn 1.5% at baseline, however, if you have \$100,000 in a Merrill Lynch brokerage account you can earn a 75%
 bonus through [Preferred Rewards](https://promotions.bankofamerica.com/preferredrewards/en) resulting in 2.62% cashback
-on all purchases. The new [Robinhood Gold Card](https://robinhood.com/creditcard/) earns 3% cashback on all purchases,
-but requires a RobinHood Gold subscription (\$5/mo).
+on all purchases. Similarly, the [U.S Bank Smartly Visa Signature](https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html) offers to 4% cashback on everything with \$100,000 in a U.S Bank Brokerage/Savings account. The new [Robinhood Gold Card](https://robinhood.com/creditcard/) earns 3% cashback on all purchases,
+but requires a RobinHood Gold subscription (\$5/mo). Below are the "no-hoops" 2% cashback credit cards. 
 
 1) [Citi Double Cash](https://wwww.citi.com/credit-cards/citi-double-cash-credit-card): 2% cashback
 
@@ -193,3 +193,4 @@ credit cards.**
 ## Next cards I'll be applying for:
 
 1) [Robinhood Gold Card](https://robinhood.com/creditcard/), 3% cashback on everything
+2) [US Bank Smartly](https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html), up to 4% cash ack on everything
