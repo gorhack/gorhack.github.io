@@ -50,7 +50,7 @@ ways to earn higher than 2%, but many require additional steps. For example, wit
 [Bank of America Unlimited Cash Rewards](https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/),
 you earn 1.5% at baseline, however, if you have \$100,000 in a Merrill Lynch brokerage account you can earn a 75%
 bonus through [Preferred Rewards](https://promotions.bankofamerica.com/preferredrewards/en) resulting in 2.62% cashback
-on all purchases. Similarly, the [U.S Bank Smartly Visa Signature](https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html) offers to 4% cashback on everything with \$100,000 in a U.S Bank Brokerage/Savings account. The new [Robinhood Gold Card](https://robinhood.com/creditcard/) earns 3% cashback on all purchases,
+on all purchases. The [Robinhood Gold Card](https://robinhood.com/creditcard/) earns 3% cashback on all purchases,
 but requires a RobinHood Gold subscription (\$5/mo or $50/yr). Below are a couple recommended "no-hoops" 2% cashback credit cards. 
 
 1) [Citi Double Cash](https://wwww.citi.com/credit-cards/citi-double-cash-credit-card): 2% cashback
@@ -86,9 +86,12 @@ but requires a RobinHood Gold subscription (\$5/mo or $50/yr). Below are a coupl
 2) [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve): 5x points on airline
    purchases through Chase Travel portal, 50% point bonus (for all Chase cards) when redeemed for travel in the Chase
    Travel portal, Priority Pass, Chase Sapphire Reserve lounge access (note: if you have multiple credit cards with a
-   Global Entry credit, you can use the additional credits on other people)
+   Global Entry credit, you can use the additional credits on other people).
 
-3) Airline Specific (lounge access):
+3) [Citi Strata Elite](https://www.citi.com/credit-cards/citi-strata-elite-credit-card): 12x points on hotels and car
+   rentals, 6x points on air travel purchased direclty with cititravel.com. 
+
+4) Airline Specific (lounge access):
 
    - Delta:
    [Amex Delta SkyMiles Reserve](https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/)
@@ -200,4 +203,7 @@ credit cards.**
 ## Next cards I'll be applying for:
 
 1) [Robinhood Gold Card](https://robinhood.com/creditcard/), 3% cashback on everything
-2) [US Bank Smartly](https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html), up to 4% cash ack on everything
+
+## Update 25 Sep:
+
+Removed the recommendation for the [U.S Bank Smartly Visa Signature](https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html) as it requires \$100k in a checking or savings account to achieve the 4% cashback value which is not a good value. Added the [Citi Strata Elite](https://www.citi.com/credit-cards/citi-strata-elite-credit-card). 
